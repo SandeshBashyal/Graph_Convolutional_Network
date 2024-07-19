@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+torch
+tqdm
+torchvision
+jupyter
+torch-geometrics
