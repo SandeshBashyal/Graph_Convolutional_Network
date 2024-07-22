@@ -7,3 +7,4 @@ tqdm
 torchvision
 jupyter
 torch-geometrics
+scikit-learn
